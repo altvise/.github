@@ -1,19 +1,14 @@
-# Welcome to Checkout Press
+## Welcome to Checkout Press
 
-At **[Checkout Press](https://checkoutpress.co)**, we build premium WooCommerce tools focused on creating faster, cleaner, and higher-converting ecommerce experiences.
+At [Checkout Press](https://checkoutpress.co/), we build premium WordPress plugins focused on creating faster, cleaner, and higher-converting digital experiences.
 
-Our products are designed to reduce checkout friction, simplify store workflows, and help WooCommerce businesses create a smoother path from product discovery to completed purchase.
+Our products are designed to reduce friction, simplify workflows, and help WordPress businesses create a smoother path from discovery to conversion — whether you're running an ecommerce store, a membership site, a SaaS, or anything in between.
 
-## What we focus on
+**What we focus on**
 
-- Checkout optimization
 - Conversion-focused UX improvements
-- Lightweight WooCommerce enhancements
-- Store performance and usability
+- Checkout and payment optimization
+- Lightweight, performant WordPress enhancements
+- Store and site usability across the WordPress ecosystem
 
-We believe great ecommerce experiences should be simple, fast, and conversion-driven.
-
-## Links
-
-[Website](#) / [Docs](#) / [Support](#) / [Roadmap](#) / [Terms](#) / [Privacy](#) / [X (Twitter)](#) / [LinkedIn](#) / [YouTube](#)
-
+We believe great WordPress experiences should be simple, fast, and conversion-driven.
