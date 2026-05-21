@@ -12,3 +12,7 @@ Our products are designed to reduce friction, simplify workflows, and help WordP
 - Store and site usability across the WordPress ecosystem
 
 We believe great WordPress experiences should be simple, fast, and conversion-driven.
+
+## Links
+
+[Website](#) / [Docs](#) / [Support](#) / [Roadmap](#) / [Terms](#) / [Privacy](#) / [X (Twitter)](#) / [LinkedIn](#) / [YouTube](#)
