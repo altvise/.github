@@ -1,6 +1,6 @@
 ## Welcome to Checkout Press
 
-At [Checkout Press](https://checkoutpress.co/), we build premium WordPress plugins focused on creating faster, cleaner, and higher-converting digital experiences.
+At [Altvise](https://altvise.com/), we build premium WordPress plugins focused on creating faster, cleaner, and higher-converting digital experiences.
 
 Our products are designed to reduce friction, simplify workflows, and help WordPress businesses create a smoother path from discovery to conversion — whether you're running an ecommerce store, a membership site, a SaaS, or anything in between.
 
