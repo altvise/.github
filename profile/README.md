@@ -1,4 +1,4 @@
-## Welcome to Checkout Press
+## Welcome to Altvise,
 
 At [Altvise](https://altvise.com/), we build premium WordPress plugins focused on creating faster, cleaner, and higher-converting digital experiences.
 
